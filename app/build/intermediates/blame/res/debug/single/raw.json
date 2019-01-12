@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\pet\\original\\old\\sunmi\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "F:\\pet\\original\\old\\sunmi\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\pet\\sunmi\\sunmi\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\pet\\sunmi\\sunmi\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "F:\\pet\\sunmi_pad\\sunmi\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "F:\\pet\\sunmi_pad\\sunmi\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "F:\\beifen\\pet\\sunmi\\sunmi\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "F:\\beifen\\pet\\sunmi\\sunmi\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "F:\\pet\\sunmi\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "F:\\pet\\sunmi\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

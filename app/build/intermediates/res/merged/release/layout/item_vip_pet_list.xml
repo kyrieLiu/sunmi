@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+                                                  
+                                           
+
+                 
+                                
+                                                              
+           
+
+    <LinearLayout
+        android:id="@+id/root_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp_11"
+        android:orientation="vertical" android:tag="layout/item_vip_pet_list_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_22"
+            >
+
+            <TextView
+                android:id="@+id/name_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:drawablePadding="@dimen/dp_2.5"
+                android:tag="binding_1"                
+                android:textSize="@dimen/sp_6_5"/>
+
+            <Button
+                android:layout_width="@dimen/dp_28"
+                android:layout_height="@dimen/dp_11"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/dp_5"
+                android:text="详情"
+                android:gravity="center"
+                android:textColor="@color/color_main"
+                android:background="@drawable/selector_press_button_empty"
+                android:tag="binding_2"                             
+                android:textSize="@dimen/sp_6_5" />
+
+        </RelativeLayout>
+
+        <include layout="@layout/line_h_normal" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+             android:tag="binding_3">
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:tag="binding_4"                                />
+
+            <include layout="@layout/line_h_normal" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+         

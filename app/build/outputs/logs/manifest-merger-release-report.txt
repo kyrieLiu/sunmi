@@ -1,0 +1,1006 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:2:1-484:12
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:2:1-484:12
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:2:1-484:12
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:2:1-484:12
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\84e94c3d750ffe8ff5468d4263a2cf70\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\81d87878681a5e08e08c9a17c99d7bfa\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:design:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\172179ca56139e95f0f360603e778e46\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\cfd83affe001faad9383bab9f95db15d\AndroidManifest.xml:17:1-27:12
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\eb490845928b1bc89ea50f5c4c036a11\AndroidManifest.xml:15:1-21:12
+MERGED from [com.flipboard:bottomsheet-core:1.5.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\bottomsheet-core-1.5.1.aar\0786023d8d6b0d82dd4b7a951465b2e3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\fb9364c8bfa8a5bb53bc77ece4b6a381\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0010ffe0a9672a924de6d0d0ddc38c23\AndroidManifest.xml:2:1-11:12
+MERGED from [com.sunmi:DS_Lib:1.0.9] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\DS_Lib-1.0.9.aar\13573e4eb0b0d14346d93013d41b2508\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\29602b8d0775eeb8d4297fead69fb305\AndroidManifest.xml:17:1-22:12
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\eb4eec7cfc998f8fd0a6deb3e14e77af\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\ca11d8496814aead53a1860599c098e0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\7358ade962f30d44aac0f6a7c6667a57\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\a58d4335d3c16a35c3fda0f588e49b0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\c7d0d7e41e64371d3ecfcd83aa5c6124\AndroidManifest.xml:17:1-27:12
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:2:1-484:12
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:2:1-484:12
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:2:1-484:12
+	package
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+		INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:2:1-484:12
+		INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:2:1-484:12
+		INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.INTERNET
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:9:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:15:22-71
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:16:22-65
+uses-feature#android.hardware.camera
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:18:5-60
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:18:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:19:19-67
+uses-feature#android.hardware.nfc
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:22:5-24:35
+	android:required
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:24:9-32
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:23:9-44
+uses-permission#android.permission.NFC
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:26:5-62
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:26:22-59
+application
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:28:5-482:19
+MERGED from [com.android.support:design:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\172179ca56139e95f0f360603e778e46\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\172179ca56139e95f0f360603e778e46\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\cfd83affe001faad9383bab9f95db15d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\cfd83affe001faad9383bab9f95db15d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\fb9364c8bfa8a5bb53bc77ece4b6a381\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\fb9364c8bfa8a5bb53bc77ece4b6a381\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0010ffe0a9672a924de6d0d0ddc38c23\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0010ffe0a9672a924de6d0d0ddc38c23\AndroidManifest.xml:9:5-20
+MERGED from [com.sunmi:DS_Lib:1.0.9] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\DS_Lib-1.0.9.aar\13573e4eb0b0d14346d93013d41b2508\AndroidManifest.xml:11:5-30:19
+MERGED from [com.sunmi:DS_Lib:1.0.9] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\DS_Lib-1.0.9.aar\13573e4eb0b0d14346d93013d41b2508\AndroidManifest.xml:11:5-30:19
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\ca11d8496814aead53a1860599c098e0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\ca11d8496814aead53a1860599c098e0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\7358ade962f30d44aac0f6a7c6667a57\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\7358ade962f30d44aac0f6a7c6667a57\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\c7d0d7e41e64371d3ecfcd83aa5c6124\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\c7d0d7e41e64371d3ecfcd83aa5c6124\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:33:9-35
+	android:label
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:31:9-43
+	android:allowBackup
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:34:9-47
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:29:9-39
+activity#ys.app.pad.activity.StartActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:35:9-44:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:37:13-50
+	android:theme
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:38:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:36:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:42:27-74
+activity#ys.app.pad.MainActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:45:9-52:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:49:13-50
+	android:launchMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:48:13-44
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:50:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:47:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:46:13-41
+activity#ys.app.pad.activity.LoginActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:54:9-66:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:57:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:58:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:56:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:55:13-51
+intent-filter#android.intent.category.DEFAULT+ys.app.pad.action.LoginActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:59:13-65:29
+action#ys.app.pad.action.LoginActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:60:17-74
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:60:25-71
+data
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:62:17-48
+	android:scheme
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:62:23-45
+category#android.intent.category.DEFAULT
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:64:17-76
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:64:27-73
+activity#ys.app.pad.activity.CollectMoneyActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:67:9-77:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:70:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:71:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:69:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:68:13-58
+intent-filter#android.intent.category.DEFAULT+ys.app.pad.action.CollectMoneyActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:72:13-76:29
+action#ys.app.pad.action.CollectMoneyActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:73:17-81
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:73:25-78
+activity#ys.app.pad.activity.manage.ManagerActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:78:9-88:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:81:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:82:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:80:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:79:13-60
+intent-filter#android.intent.category.DEFAULT+ys.app.pad.action.ManagerActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:83:13-87:29
+action#ys.app.pad.action.ManagerActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:84:25-73
+activity#ys.app.pad.activity.vip.VipActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:89:9-99:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:92:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:93:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:91:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:90:13-53
+intent-filter#android.intent.category.DEFAULT+ys.app.pad.action.VipActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:94:13-98:29
+action#ys.app.pad.action.VipActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:95:17-72
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:95:25-69
+activity#ys.app.pad.activity.vip.AddVipActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:100:9-104:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:103:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:104:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:102:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:101:13-56
+activity#ys.app.pad.activity.vip.VipDetailActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:105:9-109:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:108:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:109:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:107:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:106:13-59
+activity#ys.app.pad.activity.vip.ChargeActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:110:9-114:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:113:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:114:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:112:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:111:13-56
+activity#ys.app.pad.activity.vip.PayActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:115:9-119:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:118:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:119:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:117:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:116:13-53
+activity#ys.app.pad.activity.vip.PayResultActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:120:9-125:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:124:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:125:13-64
+	android:exported
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:123:13-36
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:122:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:121:13-59
+activity#ys.app.pad.activity.GoodsDetailActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:126:9-130:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:129:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:130:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:128:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:127:13-57
+activity#ys.app.pad.activity.CheckActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:131:9-135:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:134:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:135:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:133:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:132:13-51
+activity#ys.app.pad.activity.AddInventoryActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:136:9-140:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:139:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:140:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:138:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:137:13-58
+activity#ys.app.pad.activity.TakeOutInventoryActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:141:9-145:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:144:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:145:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:143:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:142:13-62
+activity#ys.app.pad.activity.ModifyActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:146:9-150:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:149:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:150:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:148:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:147:13-52
+activity#ys.app.pad.activity.manage.ModifyPswActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:151:9-155:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:154:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:155:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:153:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:152:13-62
+activity#ys.app.pad.activity.CommitOrderActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:156:9-160:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:159:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:160:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:158:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:157:13-57
+activity#ys.app.pad.activity.ShoppingPayResultActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:161:9-165:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:164:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:165:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:163:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:162:13-63
+activity#ys.app.pad.activity.manage.VipCardActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:166:9-170:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:169:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:170:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:168:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:167:13-60
+activity#ys.app.pad.activity.manage.AddVipCardActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:171:9-175:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:174:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:175:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:173:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:172:13-63
+activity#ys.app.pad.activity.AddAnimalActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:176:9-180:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:179:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:180:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:178:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:177:13-55
+activity#ys.app.pad.activity.PayListActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:181:9-186:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:185:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:184:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:186:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:183:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:182:13-53
+activity#ys.app.pad.activity.manage.EmployeePerformanceActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:187:9-192:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:191:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:190:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:192:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:189:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:188:13-72
+activity#ys.app.pad.activity.ServiceDetailActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:193:9-198:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:197:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:196:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:198:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:195:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:194:13-59
+activity#ys.app.pad.activity.manage.EmployeeListActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:199:9-204:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:203:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:202:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:204:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:201:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:200:13-65
+activity#ys.app.pad.activity.manage.AddEmployeeActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:205:9-210:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:209:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:208:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:210:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:207:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:206:13-64
+activity#ys.app.pad.activity.AchievementActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:211:9-222:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:215:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:214:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:216:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:213:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:212:13-57
+intent-filter#android.intent.category.DEFAULT+ys.app.pad.action.AchievementActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:217:13-221:29
+action#ys.app.pad.action.AchievementActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:218:17-80
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:218:25-77
+activity#ys.app.pad.activity.StatisticsActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:223:9-228:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:227:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:226:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:228:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:225:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:224:13-56
+activity#ys.app.pad.activity.GoodsActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:229:9-234:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:233:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:232:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:234:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:231:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:230:13-51
+activity#ys.app.pad.activity.ServiceActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:235:9-240:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:239:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:238:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:240:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:237:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:236:13-53
+activity#ys.app.pad.activity.AddGoodsActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:241:9-246:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:245:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:244:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:246:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:243:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:242:13-54
+activity#ys.app.pad.activity.AddServiceActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:247:9-252:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:251:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:250:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:252:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:249:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:248:13-56
+activity#ys.app.pad.activity.vip.VipRecordActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:253:9-258:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:257:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:256:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:258:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:255:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:254:13-59
+activity#ys.app.pad.activity.SearchActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:259:9-264:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:263:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:262:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:264:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:261:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:260:13-52
+activity#ys.app.pad.activity.ModifyServiceDetailActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:265:9-270:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:269:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:268:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:270:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:267:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:266:13-65
+activity#ys.app.pad.activity.SaleActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:271:9-282:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:275:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:274:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:276:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:273:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:272:13-50
+intent-filter#android.intent.category.DEFAULT+ys.app.pad.action.SaleActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:277:13-281:29
+action#ys.app.pad.action.SaleActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:278:17-73
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:278:25-70
+activity#ys.app.pad.activity.manage.ModifyBossPswActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:283:9-288:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:287:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:286:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:288:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:285:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:284:13-66
+activity#ys.app.pad.activity.ForgetPwdActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:289:9-294:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:293:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:292:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:294:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:291:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:290:13-55
+activity#ys.app.pad.activity.TransactionDetailActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:295:9-300:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:299:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:298:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:300:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:297:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:296:13-63
+activity#ys.app.pad.activity.manage.EmployeeDetailActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:301:9-306:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:305:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:304:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:306:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:303:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:302:13-67
+activity#ys.app.pad.activity.manage.EditEmployeeActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:307:9-312:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:311:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:310:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:312:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:309:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:308:13-65
+activity#ys.app.pad.activity.manage.AboutUsActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:313:9-320:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:317:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:316:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:318:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:315:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:314:13-60
+activity#ys.app.pad.activity.AllAchievementActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:321:9-326:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:325:13-50
+	android:hardwareAccelerated
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:324:13-48
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:326:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:323:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:322:13-60
+service#ys.app.pad.service.InitDataService
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:328:9-330:38
+	android:enabled
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:330:13-35
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:329:13-52
+service#ys.app.pad.service.BlueToothService
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:331:9-333:38
+	android:enabled
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:333:13-35
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:332:13-53
+activity#ys.app.pad.widget.imagepicker.cropper.CropImageActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:336:9-339:59
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:338:13-50
+	android:theme
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:339:13-56
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:337:13-73
+provider#ys.app.pad.provider.PetProvider
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:341:9-344:39
+	android:authorities
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:343:13-66
+	android:exported
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:344:13-36
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:342:13-49
+activity#ys.app.pad.activity.inventory.InventoryRecordsActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:346:9-348:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:348:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:347:13-72
+activity#ys.app.pad.activity.inventory.InventoryRecordsDetailActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:349:9-351:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:351:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:350:13-78
+activity#ys.app.pad.activity.appointment.AppointmentActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:352:9-354:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:354:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:353:13-69
+activity#ys.app.pad.activity.AllStaffAchievementActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:355:9-357:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:357:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:356:13-65
+activity#ys.app.pad.animalkind.AminalKindActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:358:9-360:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:360:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:359:13-58
+activity#ys.app.pad.activity.appointment.AppointmentMainActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:361:9-369:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:363:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:362:13-73
+intent-filter#android.intent.category.DEFAULT+ys.app.pad.action.AppointmentMainActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:364:13-368:29
+action#ys.app.pad.action.AppointmentMainActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:365:17-84
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:365:25-81
+activity#ys.app.pad.activity.appointment.AddAppointmentActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:370:9-372:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:372:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:371:13-72
+activity#ys.app.pad.activity.manage.AllotListActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:373:9-375:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:375:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:374:13-62
+activity#ys.app.pad.activity.manage.AllotRecordActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:376:9-378:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:378:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:377:13-64
+activity#ys.app.pad.nfc.MagneticCardActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:379:9-381:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:381:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:380:13-53
+activity#ys.app.pad.activity.appointment.ServerAppointmentActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:382:9-384:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:384:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:383:13-75
+activity#ys.app.pad.pad_adapter.GoodLoadActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:385:9-387:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:387:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:386:13-57
+activity#ys.app.pad.activity.PersonPayActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:388:9-390:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:390:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:389:13-55
+activity#ys.app.pad.activity.inventory.OutPutInventoryActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:391:9-393:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:393:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:392:13-71
+activity#ys.app.pad.activity.inventory.OutStorageDetailActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:394:9-396:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:396:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:395:13-72
+activity#ys.app.pad.activity.RefundMoneyResultActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:397:9-399:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:399:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:398:13-63
+activity#ys.app.pad.activity.manage.NumCardActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:400:9-402:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:402:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:401:13-60
+activity#ys.app.pad.activity.vip.RefundVipActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:403:9-405:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:405:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:404:13-59
+activity#ys.app.pad.activity.manage.NumCardDetailActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:406:9-409:55
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:408:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:409:13-52
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:407:13-66
+receiver#ys.app.pad.shangmi.screen.receiver.MyBroadCastReceiver
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:411:9-416:20
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:411:19-78
+intent-filter#com.sunmi.hcservice+com.sunmi.hcservice.status
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:412:13-415:29
+action#com.sunmi.hcservice
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:413:17-62
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:413:25-59
+action#com.sunmi.hcservice.status
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:414:17-69
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:414:25-66
+meta-data#sunmi_dual
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:418:9-420:36
+	android:value
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:420:13-33
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:419:13-38
+activity#ys.app.pad.activity.SandQRCodeActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:422:9-426:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:425:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:426:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:424:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:423:13-56
+activity#ys.app.pad.activity.ScannerGunPayCodeActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:427:9-431:67
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:430:13-50
+	android:windowSoftInputMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:431:13-64
+	android:configChanges
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:429:13-63
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:428:13-63
+activity#ys.app.pad.activity.vice.ViceActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:432:9-434:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:434:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:433:13-55
+activity#ys.app.pad.activity.vice.CommitOrderViceActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:435:9-438:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:438:13-50
+	android:launchMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:437:13-44
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:436:13-66
+activity#ys.app.pad.activity.vice.ViceWelcomeActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:439:9-442:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:442:13-50
+	android:launchMode
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:441:13-44
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:440:13-62
+activity#ys.app.pad.activity.FosterCareActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:443:9-445:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:445:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:444:13-56
+activity#ys.app.pad.activity.HairdressingActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:446:9-67
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:446:19-64
+activity#ys.app.pad.shangmi.t1miniscan.ScanActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:447:9-69
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:447:19-66
+activity#ys.app.pad.nfc.NFCActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:448:9-450:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:450:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:449:13-44
+activity#ys.app.pad.activity.manage.TicketManageActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:451:9-453:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:453:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:452:13-65
+activity#ys.app.pad.activity.SystemSettingActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:454:9-456:53
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:456:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:455:13-59
+activity#ys.app.pad.activity.manage.FunctionUpdateDetailActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:457:9-461:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:459:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:458:13-73
+activity#ys.app.pad.activity.manage.FunctionIntroductionListActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:462:9-466:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:464:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:463:13-77
+activity#ys.app.pad.activity.AchievementStatisticActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:467:9-471:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:469:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:468:13-66
+activity#ys.app.pad.activity.LivingBuyActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:472:9-476:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:474:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:473:13-55
+activity#ys.app.pad.activity.achievement.EmployeeAchievementsActivity
+ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:477:9-481:20
+	android:screenOrientation
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:479:13-50
+	android:name
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml:478:13-78
+uses-sdk
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\84e94c3d750ffe8ff5468d4263a2cf70\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\84e94c3d750ffe8ff5468d4263a2cf70\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\81d87878681a5e08e08c9a17c99d7bfa\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\81d87878681a5e08e08c9a17c99d7bfa\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\172179ca56139e95f0f360603e778e46\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\172179ca56139e95f0f360603e778e46\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\cfd83affe001faad9383bab9f95db15d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\cfd83affe001faad9383bab9f95db15d\AndroidManifest.xml:21:5-23:78
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\eb490845928b1bc89ea50f5c4c036a11\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\rxandroid-1.2.1.aar\eb490845928b1bc89ea50f5c4c036a11\AndroidManifest.xml:19:5-43
+MERGED from [com.flipboard:bottomsheet-core:1.5.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\bottomsheet-core-1.5.1.aar\0786023d8d6b0d82dd4b7a951465b2e3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.flipboard:bottomsheet-core:1.5.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\bottomsheet-core-1.5.1.aar\0786023d8d6b0d82dd4b7a951465b2e3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\fb9364c8bfa8a5bb53bc77ece4b6a381\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\fb9364c8bfa8a5bb53bc77ece4b6a381\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0010ffe0a9672a924de6d0d0ddc38c23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0010ffe0a9672a924de6d0d0ddc38c23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.sunmi:DS_Lib:1.0.9] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\DS_Lib-1.0.9.aar\13573e4eb0b0d14346d93013d41b2508\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sunmi:DS_Lib:1.0.9] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\DS_Lib-1.0.9.aar\13573e4eb0b0d14346d93013d41b2508\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\29602b8d0775eeb8d4297fead69fb305\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\29602b8d0775eeb8d4297fead69fb305\AndroidManifest.xml:20:5-43
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\eb4eec7cfc998f8fd0a6deb3e14e77af\AndroidManifest.xml:7:5-9:41
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\library-1.1.aar\eb4eec7cfc998f8fd0a6deb3e14e77af\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\ca11d8496814aead53a1860599c098e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\ca11d8496814aead53a1860599c098e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\7358ade962f30d44aac0f6a7c6667a57\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\7358ade962f30d44aac0f6a7c6667a57\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\a58d4335d3c16a35c3fda0f588e49b0e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\a58d4335d3c16a35c3fda0f588e49b0e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\c7d0d7e41e64371d3ecfcd83aa5c6124\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\c7d0d7e41e64371d3ecfcd83aa5c6124\AndroidManifest.xml:21:5-23:54
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\cfd83affe001faad9383bab9f95db15d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+		INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+		ADDED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+		INJECTED from F:\pet\original\old\sunmi\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\fb9364c8bfa8a5bb53bc77ece4b6a381\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\fb9364c8bfa8a5bb53bc77ece4b6a381\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\fb9364c8bfa8a5bb53bc77ece4b6a381\AndroidManifest.xml:23:9-47
+meta-data#SUNMI_APPKEY
+ADDED from [com.sunmi:DS_Lib:1.0.9] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\DS_Lib-1.0.9.aar\13573e4eb0b0d14346d93013d41b2508\AndroidManifest.xml:27:9-29:39
+	android:value
+		ADDED from [com.sunmi:DS_Lib:1.0.9] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\DS_Lib-1.0.9.aar\13573e4eb0b0d14346d93013d41b2508\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.sunmi:DS_Lib:1.0.9] C:\Users\liuyin\.gradle\caches\transforms-1\files-1.1\DS_Lib-1.0.9.aar\13573e4eb0b0d14346d93013d41b2508\AndroidManifest.xml:28:13-40

@@ -24,5 +24,7 @@ public class AllStaffAchievementActivity extends BaseActivity {
         binding.setModel(model);
         model.init();
 
+
+
     }
 }
